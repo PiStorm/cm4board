@@ -415,6 +415,33 @@
         "via_diameter": 0.4,
         "via_drill": 0.2,
         "wire_width": 6.0
+      },
+      {
+        "bus_width": 12.0,
+        "clearance": 0.09,
+        "diff_pair_gap": 0.1,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.1,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "HDMI diff",
+        "nets": [
+          "/HDMI_CLK_N",
+          "/HDMI_CLK_P",
+          "/HDMI_TX0_N",
+          "/HDMI_TX0_P",
+          "/HDMI_TX1_N",
+          "/HDMI_TX1_P",
+          "/HDMI_TX2_N",
+          "/HDMI_TX2_P"
+        ],
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.1,
+        "via_diameter": 0.4,
+        "via_drill": 0.2,
+        "wire_width": 6.0
       }
     ],
     "meta": {
