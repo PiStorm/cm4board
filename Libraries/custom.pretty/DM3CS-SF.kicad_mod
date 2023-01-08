@@ -90,7 +90,7 @@
       )
     )
   )
-  (model "/Users/michal/git/cm4board/Libraries/HIROSE_-_DM3CS-SF.step"
+  (model "${KIPRJMOD}/../Libraries/HIROSE_-_DM3CS-SF.step"
     (offset (xyz 0.3 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

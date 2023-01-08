@@ -58,7 +58,7 @@
   (pad "11" smd roundrect (at 2.24 -5.375 180) (size 1.9 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 392d2195-e285-46a2-8458-56f053bb05c1))
   (pad "11" smd roundrect (at 5.565 5.325 180) (size 1.55 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 6f2e767b-161c-48e2-9cf0-743cdfac8198))
   (pad "11" smd roundrect (at -3.73 -5.375 180) (size 1.9 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 8337c85f-3cf8-4a74-9874-dd53607ecf1f))
-  (model "/Users/michal/git/cm4board/Libraries/1040310811.stp"
+  (model "${KIPRJMOD}/../Libraries/1040310811.stp"
     (offset (xyz -44.5 1.7 0.6))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
