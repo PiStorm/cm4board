@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.0,
-          "height": 1.7,
-          "width": 1.7
+          "drill": 3.8,
+          "height": 6.2,
+          "width": 6.2
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -460,6 +460,33 @@
           "/HDMI_TX1_P",
           "/HDMI_TX2_N",
           "/HDMI_TX2_P"
+        ],
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.1,
+        "via_diameter": 0.4,
+        "via_drill": 0.2,
+        "wire_width": 6.0
+      },
+      {
+        "bus_width": 12.0,
+        "clearance": 0.09,
+        "diff_pair_gap": 0.0889,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.127,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "PCIe",
+        "nets": [
+          "/PCIE_CLK_N",
+          "/PCIE_CLK_P",
+          "/PCIE_CLK_nREQ",
+          "/PCIE_RX_N",
+          "/PCIE_RX_P",
+          "/PCIE_TX_N",
+          "/PCIE_TX_P",
+          "/PCIE_nRST"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",

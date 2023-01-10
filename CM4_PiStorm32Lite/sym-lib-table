@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "NASM0-S6701-TP40")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/NASM0-S6701-TP40.kicad_sym")(options "")(descr ""))
+  (lib (name "SMTSO2020CTJ")(type "KiCad")(uri "${KIPRJMOD}/../Libraries/SMTSO2020CTJ.kicad_sym")(options "")(descr ""))
 )
