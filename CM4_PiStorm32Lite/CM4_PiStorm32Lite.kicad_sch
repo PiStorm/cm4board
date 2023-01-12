@@ -6363,7 +6363,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x02") (at 380.365 229.87 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 08a82c1d-a38b-4d0e-9486-5a45bd8dbed1)
     (property "Reference" "J5" (id 0) (at 383.54 229.8699 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6404,7 +6404,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_02x20_Odd_Even") (at 38.735 69.215 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 0b9e97d3-96ec-43a6-95a2-8751ee2efdf4)
     (property "Reference" "J1" (id 0) (at 40.005 39.37 0))
     (property "Value" "Conn_02x20_Odd_Even" (id 1) (at 40.005 41.91 0))
@@ -6495,7 +6495,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 17.145 279.4 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 15a42113-d0f5-4853-9ec5-61303776efb0)
     (property "Reference" "H1" (id 0) (at 20.32 278.1299 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6866,7 +6866,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 53.34 279.4 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 2bbe8e4d-632d-4584-a7e2-e0ad21134e4a)
     (property "Reference" "H3" (id 0) (at 55.88 278.1299 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -6920,7 +6920,7 @@
   )
 
   (symbol (lib_id "Device:C") (at 187.325 189.23 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 324f85c1-3e67-46cc-bf69-e7a240cbe428)
     (property "Reference" "C3" (id 0) (at 190.5 187.9599 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7017,7 +7017,7 @@
   )
 
   (symbol (lib_id "NASM0-S6701-TP40:NASM0-S6701-TP40") (at 165.1 279.4 0) (mirror x) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 352ead86-34b0-4ee5-9f48-daf9045010ac)
     (property "Reference" "CN1" (id 0) (at 172.0509 175.26 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -7106,7 +7106,7 @@
   )
 
   (symbol (lib_id "Jumper:Jumper_2_Open") (at 134.62 170.18 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 36f3ee20-0374-449f-8ddd-6367d0756663)
     (property "Reference" "JP2" (id 0) (at 134.62 163.83 0))
     (property "Value" "Jumper_2_Open" (id 1) (at 134.62 166.37 0))
@@ -7341,7 +7341,7 @@
   )
 
   (symbol (lib_id "Jumper:Jumper_2_Open") (at 105.41 207.01 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 4d8799ac-57ba-472b-9272-ce45fec8ce03)
     (property "Reference" "JP1" (id 0) (at 105.41 200.66 0))
     (property "Value" "Jumper_2_Open" (id 1) (at 105.41 203.2 0))
@@ -7786,7 +7786,7 @@
   )
 
   (symbol (lib_id "Connector:TestPoint") (at 57.15 208.28 180) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid a40fb8e5-ded0-44f4-a548-d239e5e5954e)
     (property "Reference" "PP1" (id 0) (at 59.69 210.3119 0)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -8138,7 +8138,7 @@
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 35.56 279.4 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid dcd3c3d1-11ff-4d81-92be-bba1c638d784)
     (property "Reference" "H2" (id 0) (at 38.1 278.1299 0)
       (effects (font (size 1.27 1.27)) (justify left))
