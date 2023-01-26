@@ -1,0 +1,7 @@
+* text=auto
+
+*.kicad_pcb text
+*.kicad_pro text
+*.kicad_sch text
+
+sym_lib_table text
