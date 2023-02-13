@@ -7794,7 +7794,7 @@
     (property "Value" "TestPoint" (id 1) (at 59.69 212.8519 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" (id 2) (at 52.07 208.28 0)
+    (property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm" (id 2) (at 52.07 208.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 52.07 208.28 0)
@@ -8679,7 +8679,7 @@
       (reference "Module1") (unit 2) (value "ComputeModule4-CM4") (footprint "CM4IO:Raspberry-Pi-4-Compute-Module")
     )
     (path "/a40fb8e5-ded0-44f4-a548-d239e5e5954e"
-      (reference "PP13") (unit 1) (value "TestPoint") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical")
+      (reference "PP13") (unit 1) (value "TestPoint") (footprint "Connector_Wire:SolderWire-0.1sqmm_1x01_D0.4mm_OD1mm")
     )
     (path "/89f9a24c-3880-4a91-9ba9-7042ee52632d"
       (reference "R1") (unit 1) (value "2k2") (footprint "Resistor_SMD:R_0603_1608Metric")
