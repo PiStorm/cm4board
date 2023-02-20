@@ -7915,7 +7915,7 @@
   )
 
   (symbol (lib_id "Jumper:SolderJumper_2_Open") (at 360.045 193.04 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom no) (on_board yes)
     (uuid ab54f76f-7315-4daf-bc28-0274bd6d897e)
     (property "Reference" "JP3" (id 0) (at 358.14 196.215 0))
     (property "Value" "CSI 3V3 supply" (id 1) (at 358.14 198.755 0))
