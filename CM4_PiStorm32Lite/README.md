@@ -37,6 +37,11 @@ Finally, plug the CM4 into the socket on CM4 Adapter board. Your PiStorm32-Lite 
 
 ![IMG_0151](./Images/IMG_0151.jpeg)
 
+### WARNING
+**NEVER EVER** attempt to fix CM4 to the CM4 Adapter board using the four screws **without** small spacers provided by the manufacturer of the heatsink. These circa 1mm tall spacers are made of a hard rubber which prevents bendig of CM4 board and reduces the pressure exposed to the CM4. Tightening CM4 **without** the hard rubber spacers will most likely **damage** CM4 board and the CM4 Adapter board.
+
+Please follow the installation manuals provided with your CM4 heatsink precisely.
+
 ### NOTES
 
 Please note the 40-pin header on CM4 adapter board is installed "upside-down", i.e. the top of the CM4 adapter corresponds to bottom side of regular RaspberryPi. 
